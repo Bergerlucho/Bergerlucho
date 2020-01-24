@@ -1,0 +1,12 @@
+def Main()
+  print "Se calculará el cuadrado de de un rango especifico"
+  
+  N1= input("Ingrese primer numero")
+  N2= input("Ingrese segundo numero")
+  
+  For x in (N1,N2):
+    print= x*x
+  
+  print "Terminamos por ahora"
+
+Main()
